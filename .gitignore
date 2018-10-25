@@ -1,0 +1,11 @@
+# Emacs generated files
+auto-save-list
+backups
+elpa
+custom.el
+ido.last
+network-security.data
+server
+
+# Yasnippet Snippets Repository
+yasnippet-snippets
